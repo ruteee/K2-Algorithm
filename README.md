@@ -1,4 +1,4 @@
-## Python implementation of K2 algotrithm (Cooper-Herskovts, 1992). + K3 metric - Structural Learning of Bayesian Networks
+## Python implementation of K2 algorithm (Cooper-Herskovts, 1992). + K3 metric - Structural Learning of Bayesian Networks
 
 This repository contains a script containing the python implementation of the K2 algorithm, used for structural learning of Bayesian Networks, using two score metrics 
 
